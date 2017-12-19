@@ -1,52 +1,9 @@
 {
-	"activitycontinuation": {
-		"apps": [
-			"423XSA74LW.ru.cian.mobile"
-		]
-	},
-	"webcredentials": {
-		"apps": [
-			"423XSA74LW.ru.cian.mobile"
-		]
-	},
 	"applinks": {
 		"apps": [],
 		"details": [{
 			"appID": "423XSA74LW.ru.cian.mobile",
 			"paths": [
-				"NOT my.cian.ru/*"
-				"NOT /map*",
-				"NOT /novostroyki",
-				"NOT /magazine*",
-				"NOT /forum*",
-				"NOT /stati",
-				"NOT /novosti*",
-				"NOT /blogs*",
-				"NOT /oprosy*",
-				"NOT /agenstva*",
-				"NOT /realtors*",
-				"NOT /zastroishchiki*",
-				"NOT /realty*",
-				"NOT /kalkulator*",
-				"NOT /saved*",
-				"NOT /identification*",
-				"NOT /profile*",
-				"NOT /price*",
-				"NOT /account*",
-				"NOT /complaints*",
-				"NOT /statistics*",
-				"NOT /journal*",
-				"NOT /requests*",
-				"NOT /notifications*",
-				"NOT /operations*",
-				"NOT /autopay*",
-				"NOT /pay*",
-				"NOT /my*",
-				"NOT /*/*/favorites/",
-				"NOT /promo*",
-				"NOT /help*",
-				"NOT /vacancies*",
-				"NOT /apps*",
 				"*"
 			]
 		}]
