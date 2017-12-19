@@ -4,6 +4,7 @@
 		"details": [{
 			"appID": "423XSA74LW.ru.cian.mobile",
 			"paths": [
+				"/",
 				"NOT /profile"
 			]
 		}]
