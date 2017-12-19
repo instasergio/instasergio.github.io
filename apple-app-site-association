@@ -5,7 +5,7 @@
 			"appID": "423XSA74LW.ru.cian.mobile",
 			"paths": [
 				"*",
-				"NOT /profile"
+				"NOT instasergio.github.io/profile"
 			]
 		}]
 	}
