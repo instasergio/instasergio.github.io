@@ -1,12 +1,1317 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [{
-			"appID": "423XSA74LW.ru.cian.mobile",
-			"paths": [
-				"/",
-				"NOT /profile"
-			]
-		}]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "6NE3U3D2HE.ru.AutoRu",
+		    "477EAT77S3.ru.AutoRu",
+                    "477EAT77S3.ru.AutoRu1"
+                ],
+                "components": [
+                    {
+                        "?": "nomobile",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/"
+                    },
+                    {
+                        "/": "/add/*"
+                    },
+                    {
+                        "/": "/app_yadir/*"
+                    },
+                    {
+                        "/": "NOT /*/reviews/add"
+                    },
+                    {
+                        "/": "NOT /*/reviews/edit"
+                    },
+                    {
+                        "/": "/*/add/*"
+                    },
+                    {
+                        "/": "/cars/used/sale/*"
+                    },
+                    {
+                        "/": "/cars/new/sale/*"
+                    },
+                    {
+                        "/": "/*/cars/used/sale/*"
+                    },
+                    {
+                        "/": "/*/cars/new/sale/*"
+                    },
+                    {
+                        "/": "NOT /diler-utm/*/"
+                    },
+                    {
+                        "/": "NOT /diler-oficialniy-utm/*/"
+                    },
+                    {
+                        "/": "/*/cars/*/"
+                    },
+                    {
+                        "/": "/cars/*/"
+                    },
+                    {
+                        "/": "/catalog/cars/"
+                    },
+                    {
+                        "/": "/catalog/cars/*"
+                    },
+                    {
+                        "/": "/chat/*"
+                    },
+                    {
+                        "/": "/*/chat/*"
+                    },
+                    {
+                        "/": "/motorcycle/used/sale/*"
+                    },
+                    {
+                        "/": "/motorcycle/new/sale/*"
+                    },
+                    {
+                        "/": "/scooters/used/sale/*"
+                    },
+                    {
+                        "/": "/scooters/new/sale/*"
+                    },
+                    {
+                        "/": "/atv/used/sale/*"
+                    },
+                    {
+                        "/": "/atv/new/sale/*"
+                    },
+                    {
+                        "/": "/snowmobile/used/sale/*"
+                    },
+                    {
+                        "/": "/snowmobile/new/sale/*"
+                    },
+                    {
+                        "/": "/agricultural/used/sale/*"
+                    },
+                    {
+                        "/": "/agricultural/new/sale/*"
+                    },
+                    {
+                        "/": "/artic/used/sale/*"
+                    },
+                    {
+                        "/": "/artic/new/sale/*"
+                    },
+                    {
+                        "/": "/autoloader/used/sale/*"
+                    },
+                    {
+                        "/": "/autoloader/new/sale/*"
+                    },
+                    {
+                        "/": "/bulldozers/used/sale/*"
+                    },
+                    {
+                        "/": "/bulldozers/new/sale/*"
+                    },
+                    {
+                        "/": "/bus/used/sale/*"
+                    },
+                    {
+                        "/": "/bus/new/sale/*"
+                    },
+                    {
+                        "/": "/comm/used/sale/*"
+                    },
+                    {
+                        "/": "/comm/new/sale/*"
+                    },
+                    {
+                        "/": "/commercial/used/sale/*"
+                    },
+                    {
+                        "/": "/commercial/new/sale/*"
+                    },
+                    {
+                        "/": "/construction/used/sale/*"
+                    },
+                    {
+                        "/": "/construction/new/sale/*"
+                    },
+                    {
+                        "/": "/crane/used/sale/*"
+                    },
+                    {
+                        "/": "/crane/new/sale/*"
+                    },
+                    {
+                        "/": "/crane_hydraulics/used/sale/*"
+                    },
+                    {
+                        "/": "/crane_hydraulics/new/sale/*"
+                    },
+                    {
+                        "/": "/drags/used/sale/*"
+                    },
+                    {
+                        "/": "/drags/new/sale/*"
+                    },
+                    {
+                        "/": "/dredge/used/sale/*"
+                    },
+                    {
+                        "/": "/dredge/new/sale/*"
+                    },
+                    {
+                        "/": "/light_trucks/used/sale/*"
+                    },
+                    {
+                        "/": "/light_trucks/new/sale/*"
+                    },
+                    {
+                        "/": "/legkie-gruzoviki/used/sale/*"
+                    },
+                    {
+                        "/": "/legkie-gruzoviki/new/sale/*"
+                    },
+                    {
+                        "/": "/lcv/used/sale/*"
+                    },
+                    {
+                        "/": "/lcv/new/sale/*"
+                    },
+                    {
+                        "/": "/municipal/used/sale/*"
+                    },
+                    {
+                        "/": "/municipal/new/sale/*"
+                    },
+                    {
+                        "/": "/trailer/used/sale/*"
+                    },
+                    {
+                        "/": "/trailer/new/sale/*"
+                    },
+                    {
+                        "/": "/truck/used/sale/*"
+                    },
+                    {
+                        "/": "/truck/new/sale/*"
+                    },
+                    {
+                        "/": "/trucks/used/sale/*"
+                    },
+                    {
+                        "/": "/trucks/new/sale/*"
+                    },
+                    {
+                        "/": "/trailer/used/sale/*"
+                    },
+                    {
+                        "/": "/trailer/new/sale/*"
+                    },
+                    {
+                        "/": "/*/motorcycle/used/sale/*"
+                    },
+                    {
+                        "/": "/*/motorcycle/new/sale/*"
+                    },
+                    {
+                        "/": "/*/scooters/used/sale/*"
+                    },
+                    {
+                        "/": "/*/scooters/new/sale/*"
+                    },
+                    {
+                        "/": "/*/atv/used/sale/*"
+                    },
+                    {
+                        "/": "/*/atv/new/sale/*"
+                    },
+                    {
+                        "/": "/*/snowmobile/used/sale/*"
+                    },
+                    {
+                        "/": "/*/snowmobile/new/sale/*"
+                    },
+                    {
+                        "/": "/*/agricultural/used/sale/*"
+                    },
+                    {
+                        "/": "/*/agricultural/new/sale/*"
+                    },
+                    {
+                        "/": "/*/artic/used/sale/*"
+                    },
+                    {
+                        "/": "/*/artic/new/sale/*"
+                    },
+                    {
+                        "/": "/*/autoloader/used/sale/*"
+                    },
+                    {
+                        "/": "/*/autoloader/new/sale/*"
+                    },
+                    {
+                        "/": "/*/bulldozers/used/sale/*"
+                    },
+                    {
+                        "/": "/*/bulldozers/new/sale/*"
+                    },
+                    {
+                        "/": "/*/bus/used/sale/*"
+                    },
+                    {
+                        "/": "/*/bus/new/sale/*"
+                    },
+                    {
+                        "/": "/*/comm/used/sale/*"
+                    },
+                    {
+                        "/": "/*/comm/new/sale/*"
+                    },
+                    {
+                        "/": "/*/commercial/used/sale/*"
+                    },
+                    {
+                        "/": "/*/commercial/new/sale/*"
+                    },
+                    {
+                        "/": "/*/construction/used/sale/*"
+                    },
+                    {
+                        "/": "/*/construction/new/sale/*"
+                    },
+                    {
+                        "/": "/*/crane/used/sale/*"
+                    },
+                    {
+                        "/": "/*/crane/new/sale/*"
+                    },
+                    {
+                        "/": "/*/crane_hydraulics/used/sale/*"
+                    },
+                    {
+                        "/": "/*/crane_hydraulics/new/sale/*"
+                    },
+                    {
+                        "/": "/*/drags/used/sale/*"
+                    },
+                    {
+                        "/": "/*/drags/new/sale/*"
+                    },
+                    {
+                        "/": "/*/dredge/used/sale/*"
+                    },
+                    {
+                        "/": "/*/dredge/new/sale/*"
+                    },
+                    {
+                        "/": "/*/light_trucks/used/sale/*"
+                    },
+                    {
+                        "/": "/*/light_trucks/new/sale/*"
+                    },
+                    {
+                        "/": "/*/legkie-gruzoviki/used/sale/*"
+                    },
+                    {
+                        "/": "/*/legkie-gruzoviki/new/sale/*"
+                    },
+                    {
+                        "/": "/*/lcv/used/sale/*"
+                    },
+                    {
+                        "/": "/*/lcv/new/sale/*"
+                    },
+                    {
+                        "/": "/*/municipal/used/sale/*"
+                    },
+                    {
+                        "/": "/*/municipal/new/sale/*"
+                    },
+                    {
+                        "/": "/*/trailer/used/sale/*"
+                    },
+                    {
+                        "/": "/*/trailer/new/sale/*"
+                    },
+                    {
+                        "/": "/*/truck/used/sale/*"
+                    },
+                    {
+                        "/": "/*/truck/new/sale/*"
+                    },
+                    {
+                        "/": "/*/trucks/used/sale/*"
+                    },
+                    {
+                        "/": "/*/trucks/new/sale/*"
+                    },
+                    {
+                        "/": "/*/trailer/used/sale/*"
+                    },
+                    {
+                        "/": "/*/trailer/new/sale/*"
+                    },
+                    {
+                        "/": "/serve/*"
+                    },
+                    {
+                        "/": "/promo/from-web-to-app/"
+                    },
+                    {
+                        "/": "/my/*"
+                    },
+                    {
+                        "/": "/like/cars/"
+                    },
+                    {
+                        "/": "/history"
+                    },
+                    {
+                        "/": "/history/*"
+                    },
+                    {
+                        "/": "/recalls"
+                    },
+                    {
+                        "/": "*/motorcycle/all/"
+                    },
+                    {
+                        "/": "*/motorcycle/new/"
+                    },
+                    {
+                        "/": "*/motorcycle/used/"
+                    },
+                    {
+                        "/": "/motorcycle/all/"
+                    },
+                    {
+                        "/": "/motorcycle/new/"
+                    },
+                    {
+                        "/": "/motorcycle/used/"
+                    },
+                    {
+                        "/": "*/scooters/all/"
+                    },
+                    {
+                        "/": "*/scooters/new/"
+                    },
+                    {
+                        "/": "*/scooters/used/"
+                    },
+                    {
+                        "/": "/scooters/all/"
+                    },
+                    {
+                        "/": "/scooters/new/"
+                    },
+                    {
+                        "/": "/scooters/used/"
+                    },
+                    {
+                        "/": "*/atv/all/"
+                    },
+                    {
+                        "/": "*/atv/new/"
+                    },
+                    {
+                        "/": "*/atv/used/"
+                    },
+                    {
+                        "/": "/atv/all/"
+                    },
+                    {
+                        "/": "/atv/new/"
+                    },
+                    {
+                        "/": "/atv/used/"
+                    },
+                    {
+                        "/": "*/snowmobile/all/"
+                    },
+                    {
+                        "/": "*/snowmobile/new/"
+                    },
+                    {
+                        "/": "*/snowmobile/used/"
+                    },
+                    {
+                        "/": "/snowmobile/all/"
+                    },
+                    {
+                        "/": "/snowmobile/new/"
+                    },
+                    {
+                        "/": "/snowmobile/used/"
+                    },
+                    {
+                        "/": "*/agricultural/all/"
+                    },
+                    {
+                        "/": "*/agricultural/new/"
+                    },
+                    {
+                        "/": "*/agricultural/used/"
+                    },
+                    {
+                        "/": "/agricultural/all/"
+                    },
+                    {
+                        "/": "/agricultural/new/"
+                    },
+                    {
+                        "/": "/agricultural/used/"
+                    },
+                    {
+                        "/": "*/artic/all/"
+                    },
+                    {
+                        "/": "*/artic/new/"
+                    },
+                    {
+                        "/": "*/artic/used/"
+                    },
+                    {
+                        "/": "/artic/all/"
+                    },
+                    {
+                        "/": "/artic/new/"
+                    },
+                    {
+                        "/": "/artic/used/"
+                    },
+                    {
+                        "/": "*/autoloader/all/"
+                    },
+                    {
+                        "/": "*/autoloader/new/"
+                    },
+                    {
+                        "/": "*/autoloader/used/"
+                    },
+                    {
+                        "/": "/autoloader/all/"
+                    },
+                    {
+                        "/": "/autoloader/new/"
+                    },
+                    {
+                        "/": "/autoloader/used/"
+                    },
+                    {
+                        "/": "*/bus/all/"
+                    },
+                    {
+                        "/": "*/bus/new/"
+                    },
+                    {
+                        "/": "*/bus/used/"
+                    },
+                    {
+                        "/": "/bus/all/"
+                    },
+                    {
+                        "/": "/bus/new/"
+                    },
+                    {
+                        "/": "/bus/used/"
+                    },
+                    {
+                        "/": "*/bulldozers/all/"
+                    },
+                    {
+                        "/": "*/bulldozers/new/"
+                    },
+                    {
+                        "/": "*/bulldozers/used/"
+                    },
+                    {
+                        "/": "/bulldozers/all/"
+                    },
+                    {
+                        "/": "/bulldozers/new/"
+                    },
+                    {
+                        "/": "/bulldozers/used/"
+                    },
+                    {
+                        "/": "*/comm/all/"
+                    },
+                    {
+                        "/": "*/comm/new/"
+                    },
+                    {
+                        "/": "*/comm/used/"
+                    },
+                    {
+                        "/": "/comm/all/"
+                    },
+                    {
+                        "/": "/comm/new/"
+                    },
+                    {
+                        "/": "/comm/used/"
+                    },
+                    {
+                        "/": "*/commercial/all/"
+                    },
+                    {
+                        "/": "*/commercial/new/"
+                    },
+                    {
+                        "/": "*/commercial/used/"
+                    },
+                    {
+                        "/": "/commercial/all/"
+                    },
+                    {
+                        "/": "/commercial/new/"
+                    },
+                    {
+                        "/": "/commercial/used/"
+                    },
+                    {
+                        "/": "*/construction/all/"
+                    },
+                    {
+                        "/": "*/construction/new/"
+                    },
+                    {
+                        "/": "*/construction/used/"
+                    },
+                    {
+                        "/": "/construction/all/"
+                    },
+                    {
+                        "/": "/construction/new/"
+                    },
+                    {
+                        "/": "/construction/used/"
+                    },
+                    {
+                        "/": "*/crane/all/"
+                    },
+                    {
+                        "/": "*/crane/new/"
+                    },
+                    {
+                        "/": "*/crane/used/"
+                    },
+                    {
+                        "/": "/crane/all/"
+                    },
+                    {
+                        "/": "/crane/new/"
+                    },
+                    {
+                        "/": "/crane/used/"
+                    },
+                    {
+                        "/": "*/crane_hydraulics/all/"
+                    },
+                    {
+                        "/": "*/crane_hydraulics/new/"
+                    },
+                    {
+                        "/": "*/crane_hydraulics/used/"
+                    },
+                    {
+                        "/": "/crane_hydraulics/all/"
+                    },
+                    {
+                        "/": "/crane_hydraulics/new/"
+                    },
+                    {
+                        "/": "/crane_hydraulics/used/"
+                    },
+                    {
+                        "/": "*/drags/all/"
+                    },
+                    {
+                        "/": "*/drags/new/"
+                    },
+                    {
+                        "/": "*/drags/used/"
+                    },
+                    {
+                        "/": "/drags/all/"
+                    },
+                    {
+                        "/": "/drags/new/"
+                    },
+                    {
+                        "/": "/drags/used/"
+                    },
+                    {
+                        "/": "*/dredge/all/"
+                    },
+                    {
+                        "/": "*/dredge/new/"
+                    },
+                    {
+                        "/": "*/dredge/used/"
+                    },
+                    {
+                        "/": "/dredge/all/"
+                    },
+                    {
+                        "/": "/dredge/new/"
+                    },
+                    {
+                        "/": "/dredge/used/"
+                    },
+                    {
+                        "/": "*/lcv/all/"
+                    },
+                    {
+                        "/": "*/lcv/new/"
+                    },
+                    {
+                        "/": "*/lcv/used/"
+                    },
+                    {
+                        "/": "/lcv/all/"
+                    },
+                    {
+                        "/": "/lcv/new/"
+                    },
+                    {
+                        "/": "/lcv/used/"
+                    },
+                    {
+                        "/": "*/legkie-gruzoviki/all/"
+                    },
+                    {
+                        "/": "*/legkie-gruzoviki/new/"
+                    },
+                    {
+                        "/": "*/legkie-gruzoviki/used/"
+                    },
+                    {
+                        "/": "/legkie-gruzoviki/all/"
+                    },
+                    {
+                        "/": "/legkie-gruzoviki/new/"
+                    },
+                    {
+                        "/": "/legkie-gruzoviki/used/"
+                    },
+                    {
+                        "/": "*/light_trucks/all/"
+                    },
+                    {
+                        "/": "*/light_trucks/new/"
+                    },
+                    {
+                        "/": "*/light_trucks/used/"
+                    },
+                    {
+                        "/": "/light_trucks/all/"
+                    },
+                    {
+                        "/": "/light_trucks/new/"
+                    },
+                    {
+                        "/": "/light_trucks/used/"
+                    },
+                    {
+                        "/": "*/municipal/all/"
+                    },
+                    {
+                        "/": "*/municipal/new/"
+                    },
+                    {
+                        "/": "*/municipal/used/"
+                    },
+                    {
+                        "/": "/municipal/all/"
+                    },
+                    {
+                        "/": "/municipal/new/"
+                    },
+                    {
+                        "/": "/municipal/used/"
+                    },
+                    {
+                        "/": "*/trailer/all/"
+                    },
+                    {
+                        "/": "*/trailer/new/"
+                    },
+                    {
+                        "/": "*/trailer/used/"
+                    },
+                    {
+                        "/": "/trailer/all/"
+                    },
+                    {
+                        "/": "/trailer/new/"
+                    },
+                    {
+                        "/": "/trailer/used/"
+                    },
+                    {
+                        "/": "*/truck/all/"
+                    },
+                    {
+                        "/": "*/truck/new/"
+                    },
+                    {
+                        "/": "*/truck/used/"
+                    },
+                    {
+                        "/": "/truck/all/"
+                    },
+                    {
+                        "/": "/truck/new/"
+                    },
+                    {
+                        "/": "/truck/used/"
+                    },
+                    {
+                        "/": "*/trucks/all/"
+                    },
+                    {
+                        "/": "*/trucks/new/"
+                    },
+                    {
+                        "/": "*/trucks/used/"
+                    },
+                    {
+                        "/": "/trucks/all/"
+                    },
+                    {
+                        "/": "/trucks/new/"
+                    },
+                    {
+                        "/": "/trucks/used/"
+                    },
+
+                    {
+                        "/": "/rossiya/"
+                    },
+                    {
+                        "/": "/moskva/"
+                    },
+                    {
+                        "/": "/sankt-peterburg/"
+                    },
+                    {
+                        "/": "/ekaterinburg/"
+                    },
+                    {
+                        "/": "/moskovskaya_oblast/"
+                    },
+                    {
+                        "/": "/krasnodar/"
+                    },
+                    {
+                        "/": "/krasnoyarsk/"
+                    },
+                    {
+                        "/": "/nizhniy_novgorod/"
+                    },
+                    {
+                        "/": "/voronezh/"
+                    },
+                    {
+                        "/": "/sverdlovskaya_oblast/"
+                    },
+                    {
+                        "/": "/chelyabinsk/"
+                    },
+                    {
+                        "/": "/krasnoyarskiy_kray/"
+                    },
+                    {
+                        "/": "/novosibirsk/"
+                    },
+                    {
+                        "/": "/rostov-na-donu/"
+                    },
+                    {
+                        "/": "/krym/"
+                    },
+                    {
+                        "/": "/kazan/"
+                    },
+                    {
+                        "/": "/ufa/"
+                    },
+                    {
+                        "/": "/samara/"
+                    },
+                    {
+                        "/": "/saratov/"
+                    },
+                    {
+                        "/": "/omsk/"
+                    },
+                    {
+                        "/": "/tula/"
+                    },
+                    {
+                        "/": "/tyumen/"
+                    },
+                    {
+                        "/": "/krasnodarskiy_kray/"
+                    },
+                    {
+                        "/": "/tver/"
+                    },
+                    {
+                        "/": "/volgograd/"
+                    },
+                    {
+                        "/": "/perm/"
+                    },
+                    {
+                        "/": "/yaroslavl/"
+                    },
+                    {
+                        "/": "/ivanovo/"
+                    },
+                    {
+                        "/": "/kaluga/"
+                    },
+                    {
+                        "/": "/ryazan/"
+                    },
+                    {
+                        "/": "/penza/"
+                    },
+                    {
+                        "/": "/leningradskaya_oblast/"
+                    },
+                    {
+                        "/": "/arhangelsk/"
+                    },
+                    {
+                        "/": "/lipetsk/"
+                    },
+                    {
+                        "/": "/orenburg/"
+                    },
+                    {
+                        "/": "/kaliningrad/"
+                    },
+                    {
+                        "/": "/sochi/"
+                    },
+                    {
+                        "/": "/vladimir/"
+                    },
+                    {
+                        "/": "/kirovskaya_oblast_kirov/"
+                    },
+                    {
+                        "/": "/bryansk/"
+                    },
+                    {
+                        "/": "/smolensk/"
+                    },
+                    {
+                        "/": "/balashiha/"
+                    },
+                    {
+                        "/": "/belgorod/"
+                    },
+                    {
+                        "/": "/orel/"
+                    },
+                    {
+                        "/": "/tolyatti/"
+                    },
+                    {
+                        "/": "/chelyabinskaya_oblast/"
+                    },
+                    {
+                        "/": "/kostroma/"
+                    },
+                    {
+                        "/": "/astrahan/"
+                    },
+                    {
+                        "/": "/tomsk/"
+                    },
+                    {
+                        "/": "/podolsk/"
+                    },
+                    {
+                        "/": "/recalls"
+                    },
+                    {
+                        "/": "/geo"
+                    },
+                    {
+                        "/": "/lcv"
+                    },
+                    {
+                        "/": "/*/motorcycle"
+                    },
+                    {
+                        "/": "/motorcycle"
+                    },
+                    {
+                        "/": "/like/comm"
+                    },
+                    {
+                        "/": "/like/moto"
+                    },
+                    {
+                        "/": "/*/cars"
+                    },
+                    {
+                        "/": "/compare/"
+                    },
+                    {
+                        "/": "/compare-offers/"
+                    },
+                    {
+                        "/": "/compare-models/"
+                    },
+                    {
+                        "/": "/promo/osago/"
+                    },
+                    {
+                        "/": "/promo/autoru-tcs/"
+                    },
+                    {
+                        "/": "/article/*"
+                    }
+                ],
+                "paths": [
+                    "/",
+                    "/add/*",
+                    "/app_yadir/*",
+                    "/review/*",
+                    "/*/reviews/add",
+                    "/my/reviews",
+                    "NOT /*/reviews/edit",
+                    "/*/add/*",
+                    "/cars/used/sale/*",
+                    "/cars/new/sale/*",
+                    "NOT /*/dilery/cars/*",
+                    "NOT /dilery/cars/*",
+                    "/*/cars/used/sale/*",
+                    "/*/cars/new/sale/*",
+                    "NOT /diler-utm/*/",
+                    "NOT /diler-oficialniy-utm/*/",
+                    "/*/cars/*/",
+                    "/cars/*/",
+                    "/catalog/cars/",
+                    "/catalog/cars/*",
+                    "/chat/*",
+                    "/*/chat/*",
+                    "/motorcycle/used/sale/*",
+                    "/motorcycle/new/sale/*",
+                    "/scooters/used/sale/*",
+                    "/scooters/new/sale/*",
+                    "/atv/used/sale/*",
+                    "/atv/new/sale/*",
+                    "/snowmobile/used/sale/*",
+                    "/snowmobile/new/sale/*",
+                    "/agricultural/used/sale/*",
+                    "/agricultural/new/sale/*",
+                    "/artic/used/sale/*",
+                    "/artic/new/sale/*",
+                    "/autoloader/used/sale/*",
+                    "/autoloader/new/sale/*",
+                    "/bus/used/sale/*",
+                    "/bus/new/sale/*",
+                    "/bulldozers/used/sale/*",
+                    "/bulldozers/new/sale/*",
+                    "/comm/used/sale/*",
+                    "/comm/new/sale/*",
+                    "/commercial/used/sale/*",
+                    "/commercial/new/sale/*",
+                    "/construction/used/sale/*",
+                    "/construction/new/sale/*",
+                    "/crane/used/sale/*",
+                    "/crane/new/sale/*",
+                    "/crane_hydraulics/used/sale/*",
+                    "/crane_hydraulics/new/sale/*",
+                    "/drags/used/sale/*",
+                    "/drags/new/sale/*",
+                    "/dredge/used/sale/*",
+                    "/dredge/new/sale/*",
+                    "/lcv/used/sale/*",
+                    "/lcv/new/sale/*",
+                    "/legkie-gruzoviki/used/sale/*",
+                    "/legkie-gruzoviki/new/sale/*",
+                    "/light_trucks/used/sale/*",
+                    "/light_trucks/new/sale/*",
+                    "/municipal/used/sale/*",
+                    "/municipal/new/sale/*",
+                    "/trailer/used/sale/*",
+                    "/trailer/new/sale/*",
+                    "/truck/used/sale/*",
+                    "/truck/new/sale/*",
+                    "/trucks/used/sale/*",
+                    "/trucks/new/sale/*",
+                    "/*/motorcycle/used/sale/*",
+                    "/*/motorcycle/new/sale/*",
+                    "/*/scooters/used/sale/*",
+                    "/*/scooters/new/sale/*",
+                    "/*/atv/used/sale/*",
+                    "/*/atv/new/sale/*",
+                    "/*/snowmobile/used/sale/*",
+                    "/*/snowmobile/new/sale/*",
+                    "/*/agricultural/used/sale/*",
+                    "/*/agricultural/new/sale/*",
+                    "/*/artic/used/sale/*",
+                    "/*/artic/new/sale/*",
+                    "/*/autoloader/used/sale/*",
+                    "/*/autoloader/new/sale/*",
+                    "/*/bus/used/sale/*",
+                    "/*/bus/new/sale/*",
+                    "/*/bulldozers/used/sale/*",
+                    "/*/bulldozers/new/sale/*",
+                    "/*/comm/used/sale/*",
+                    "/*/comm/new/sale/*",
+                    "/*/commercial/used/sale/*",
+                    "/*/commercial/new/sale/*",
+                    "/*/construction/used/sale/*",
+                    "/*/construction/new/sale/*",
+                    "/*/crane/used/sale/*",
+                    "/*/crane/new/sale/*",
+                    "/*/crane_hydraulics/used/sale/*",
+                    "/*/crane_hydraulics/new/sale/*",
+                    "/*/drags/used/sale/*",
+                    "/*/drags/new/sale/*",
+                    "/*/dredge/used/sale/*",
+                    "/*/dredge/new/sale/*",
+                    "/*/lcv/used/sale/*",
+                    "/*/lcv/new/sale/*",
+                    "/*/legkie-gruzoviki/used/sale/*",
+                    "/*/legkie-gruzoviki/new/sale/*",
+                    "/*/light_trucks/used/sale/*",
+                    "/*/light_trucks/new/sale/*",
+                    "/*/municipal/used/sale/*",
+                    "/*/municipal/new/sale/*",
+                    "/*/trailer/used/sale/*",
+                    "/*/trailer/new/sale/*",
+                    "/*/truck/used/sale/*",
+                    "/*/truck/new/sale/*",
+                    "/*/trucks/used/sale/*",
+                    "/*/trucks/new/sale/*",
+                    "/serve/*",
+                    "/promo/from-web-to-app/",
+                    "/my/*",
+                    "/like/cars/",
+                    "/history",
+                    "/history/*",
+                    "/recalls",
+                    "/",
+                    "*/motorcycle/all/",
+                    "*/motorcycle/new/",
+                    "*/motorcycle/used/",
+                    "/motorcycle/all/",
+                    "/motorcycle/new/",
+                    "/motorcycle/used/",
+                    "*/scooters/all/",
+                    "*/scooters/new/",
+                    "*/scooters/used/",
+                    "/scooters/all/",
+                    "/scooters/new/",
+                    "/scooters/used/",
+                    "*/atv/all/",
+                    "*/atv/new/",
+                    "*/atv/used/",
+                    "/atv/all/",
+                    "/atv/new/",
+                    "/atv/used/",
+                    "*/snowmobile/all/",
+                    "*/snowmobile/new/",
+                    "*/snowmobile/used/",
+                    "/snowmobile/all/",
+                    "/snowmobile/new/",
+                    "/snowmobile/used/",
+                    "*/agricultural/all/",
+                    "*/agricultural/new/",
+                    "*/agricultural/used/",
+                    "/agricultural/all/",
+                    "/agricultural/new/",
+                    "/agricultural/used/",
+                    "*/artic/all/",
+                    "*/artic/new/",
+                    "*/artic/used/",
+                    "/artic/all/",
+                    "/artic/new/",
+                    "/artic/used/",
+                    "*/autoloader/all/",
+                    "*/autoloader/new/",
+                    "*/autoloader/used/",
+                    "/autoloader/all/",
+                    "/autoloader/new/",
+                    "/autoloader/used/",
+                    "*/bus/all/",
+                    "*/bus/new/",
+                    "*/bus/used/",
+                    "/bus/all/",
+                    "/bus/new/",
+                    "/bus/used/",
+                    "*/bulldozers/all/",
+                    "*/bulldozers/new/",
+                    "*/bulldozers/used/",
+                    "/bulldozers/all/",
+                    "/bulldozers/new/",
+                    "/bulldozers/used/",
+                    "*/comm/all/",
+                    "*/comm/new/",
+                    "*/comm/used/",
+                    "/comm/all/",
+                    "/comm/new/",
+                    "/comm/used/",
+                    "*/commercial/all/",
+                    "*/commercial/new/",
+                    "*/commercial/used/",
+                    "/commercial/all/",
+                    "/commercial/new/",
+                    "/commercial/used/",
+                    "*/construction/all/",
+                    "*/construction/new/",
+                    "*/construction/used/",
+                    "/construction/all/",
+                    "/construction/new/",
+                    "/construction/used/",
+                    "*/crane/all/",
+                    "*/crane/new/",
+                    "*/crane/used/",
+                    "/crane/all/",
+                    "/crane/new/",
+                    "/crane/used/",
+                    "*/crane_hydraulics/all/",
+                    "*/crane_hydraulics/new/",
+                    "*/crane_hydraulics/used/",
+                    "/crane_hydraulics/all/",
+                    "/crane_hydraulics/new/",
+                    "/crane_hydraulics/used/",
+                    "*/drags/all/",
+                    "*/drags/new/",
+                    "*/drags/used/",
+                    "/drags/all/",
+                    "/drags/new/",
+                    "/drags/used/",
+                    "*/dredge/all/",
+                    "*/dredge/new/",
+                    "*/dredge/used/",
+                    "/dredge/all/",
+                    "/dredge/new/",
+                    "/dredge/used/",
+                    "*/lcv/all/",
+                    "*/lcv/new/",
+                    "*/lcv/used/",
+                    "/lcv/all/",
+                    "/lcv/new/",
+                    "/lcv/used/",
+                    "*/legkie-gruzoviki/all/",
+                    "*/legkie-gruzoviki/new/",
+                    "*/legkie-gruzoviki/used/",
+                    "/legkie-gruzoviki/all/",
+                    "/legkie-gruzoviki/new/",
+                    "/legkie-gruzoviki/used/",
+                    "*/light_trucks/all/",
+                    "*/light_trucks/new/",
+                    "*/light_trucks/used/",
+                    "/light_trucks/all/",
+                    "/light_trucks/new/",
+                    "/light_trucks/used/",
+                    "*/municipal/all/",
+                    "*/municipal/new/",
+                    "*/municipal/used/",
+                    "/municipal/all/",
+                    "/municipal/new/",
+                    "/municipal/used/",
+                    "*/trailer/all/",
+                    "*/trailer/new/",
+                    "*/trailer/used/",
+                    "/trailer/all/",
+                    "/trailer/new/",
+                    "/trailer/used/",
+                    "*/truck/all/",
+                    "*/truck/new/",
+                    "*/truck/used/",
+                    "/truck/all/",
+                    "/truck/new/",
+                    "/truck/used/",
+                    "*/trucks/all/",
+                    "*/trucks/new/",
+                    "*/trucks/used/",
+                    "/trucks/all/",
+                    "/trucks/new/",
+                    "/trucks/used/",
+
+                    "/rossiya/",
+                    "/moskva/",
+                    "/sankt-peterburg/",
+                    "/ekaterinburg/",
+                    "/moskovskaya_oblast/",
+                    "/krasnodar/",
+                    "/krasnoyarsk/",
+                    "/nizhniy_novgorod/",
+                    "/voronezh/",
+                    "/sverdlovskaya_oblast/",
+                    "/chelyabinsk/",
+                    "/krasnoyarskiy_kray/",
+                    "/novosibirsk/",
+                    "/rostov-na-donu/",
+                    "/krym/",
+                    "/kazan/",
+                    "/ufa/",
+                    "/samara/",
+                    "/saratov/",
+                    "/omsk/",
+                    "/tula/",
+                    "/tyumen/",
+                    "/krasnodarskiy_kray/",
+                    "/tver/",
+                    "/volgograd/",
+                    "/perm/",
+                    "/yaroslavl/",
+                    "/ivanovo/",
+                    "/kaluga/",
+                    "/ryazan/",
+                    "/penza/",
+                    "/leningradskaya_oblast/",
+                    "/arhangelsk/",
+                    "/lipetsk/",
+                    "/orenburg/",
+                    "/kaliningrad/",
+                    "/sochi/",
+                    "/vladimir/",
+                    "/kirovskaya_oblast_kirov/",
+                    "/bryansk/",
+                    "/smolensk/",
+                    "/balashiha/",
+                    "/belgorod/",
+                    "/orel/",
+                    "/tolyatti/",
+                    "/chelyabinskaya_oblast/",
+                    "/kostroma/",
+                    "/astrahan/",
+                    "/tomsk/",
+                    "/podolsk/",
+                    "/recalls",
+                    "/geo",
+                    "/lcv",
+                    "/*/motorcycle",
+                    "/motorcycle",
+                    "/like/comm",
+                    "/like/moto",
+                    "/*/cars",
+                    "/compare/",
+                    "/compare-offers/",
+                    "/compare-models/",
+                    "/promo/osago/",
+                    "/promo/autoru-tcs/",
+                    "/article/*"
+                ]
+            }
+        ]
+    }
 }
